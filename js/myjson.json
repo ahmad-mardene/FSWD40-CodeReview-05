@@ -1,0 +1,35 @@
+var Persons = [
+                       {
+			"name": "John",
+			"surname": "Doe",
+			"favoritePerformers": ["Justin Timberlake", "Ed Sheeran", "Emma Watson"],
+			"age": "25",
+   			"myPhoto": " src= 'img/john.jpg'",	
+			"likes": 0    // numeric property used to store likes
+			},
+			           {
+			"name": "Jane",
+			"surname": "Doe",
+			"favoritePerformers": ["Justin Timberlake", "Ed Sheeran", "Emma Watson"],
+			"age": "25",
+   			"myPhoto": "img/jane.jpg",	
+			"likes": 0    // numeric property used to store likes
+			},
+			           {
+			"name": "Maxina",
+			"surname": "Musterman",
+			"favoritePerformers": ["Justin Timberlake", "Ed Sheeran", "Emma Watson"],
+			"age": "25",
+   			"myPhoto": "img/maxina.jpg",	
+			"likes": 0    // numeric property used to store likes
+			},
+			           {
+			"name": "Max",
+			"surname": "Musterman",
+			"favoritePerformers": ["Justin Timberlake", "Ed Sheeran", "Emma Watson"],
+			"age": "25",
+   			"myPhoto": "img/max.jpg",	
+			"likes": 0    // numeric property used to store likes
+			},
+			/* create at least 3 other persons by yourself */
+];
